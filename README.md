@@ -3,11 +3,12 @@
 I build small, focused tools and ship them. Mostly offline-first PWAs, edge
 backends on Cloudflare, and automation that runs without me.
 
+- **[Repertum](https://github.com/erold90/repertum)** — copies a USB stick without altering it: write block, SHA-256 and MD5 of every file, verified copies and a report. Windows, macOS, Linux
 - **[anybrowser](https://github.com/erold90/anybrowser-skill)** — a Claude Code / Codex skill that drives your real, signed-in browser and Mac apps, no extension
 - **[AgentReady](https://github.com/erold90/AgentReady)** — a Lighthouse for AI agent readiness: WebMCP audit and agent simulator
 - **[runfit](https://github.com/erold90/runfit)** — evidence-based walk-run coaching, adaptive timer, voice guidance
 - **[GymTracker](https://github.com/erold90/Gym)** — offline-first PWA for strength training: workout planner, progression and charts
 
-TypeScript · Python · Swift · Cloudflare Workers & D1 · Supabase · PWAs
+TypeScript · Python · Swift · C# · Cloudflare Workers & D1 · Supabase · PWAs
 
 [danielelore.com](https://danielelore.com) · Lecce, Italy
